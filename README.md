@@ -4,4 +4,4 @@
 
 - Link Drive para listas de exercício: https://drive.google.com/drive/folders/1ejwat8xTYiJEJ8Hcc39SqRet7d84Ihs_?usp=sharing
 
-- As pastas contam com as respostas dos exercícios das listas.
+- O numero da pasta é respectivo ao numero da lista, as pastas contém as respostas dos exercícios listados. 
